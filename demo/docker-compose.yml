@@ -21,8 +21,8 @@ services:
       SPRING_JPA_PROPERTIES_HIBERNATE_DIALECT: org.hibernate.dialect.PostgreSQLDialect
       SPRING_MAIL_HOST: smtp.gmail.com
       SPRING_MAIL_PORT: 587
-      SPRING_MAIL_USERNAME: gatekeeper.cardhaven@gmail.com
-      SPRING_MAIL_PASSWORD: vdafjcxkzihyyoqq
+      SPRING_MAIL_USERNAME: //enter the email
+      SPRING_MAIL_PASSWORD: //enter the password
       SPRING_MAIL_PROPERTIES_MAIL_SMTP_AUTH: true
       SPRING_MAIL_PROPERTIES_MAIL_SMTP_STARTTLS_ENABLE: true
 
